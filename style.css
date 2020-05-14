@@ -1,0 +1,26 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Lora&family=Roboto:wght@300&display=swap");
+
+@import url("C:\Users\katha\Documents\4. Semester\LeWagon\startup\container.css");
+
+@import url("C:\Users\katha\Documents\4. Semester\LeWagon\startupavatar.css");
+
+@import url("C:\Users\katha\Documents\4. Semester\LeWagon\startupbutton.css");
+
+@import url("C:\Users\katha\Documents\4. Semester\LeWagon\startupbanner.css");
+
+
+
+body {
+	font-family: 'Roboto', serif;
+	font-size: 16px;
+	
+}
+
+h1, h2, h3 {
+	font-family: 'Lora', sans-serif;
+	font-weight: bold;
+}
+a{
+	text-decoration: none;
+}

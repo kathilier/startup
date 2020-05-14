@@ -1,0 +1,8 @@
+.btn-green {
+	background-color: green;
+	padding: 16px 24px;
+	border-radius: 5px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Lora', sans-serif;
+}
